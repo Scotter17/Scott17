@@ -1,4 +1,4 @@
-package act1panilag;
+package act3sensontic;
 import java.util.Scanner;
 
 
