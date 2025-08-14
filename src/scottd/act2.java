@@ -1,4 +1,4 @@
-package act2sensontic;
+package scottd;
 
 import java.util.Scanner;
 
@@ -23,3 +23,7 @@ public class act2 {
             
             System.out.println("End");
         }
+    }
+}
+       
+    
